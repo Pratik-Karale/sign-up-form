@@ -22,7 +22,7 @@ body{
     background-repeat: no-repeat;
     background-position: 0% 0%;
     background-size: cover;
-    background-image:url("/solo-bg.jpeg");
+    background-image:url("solo-bg.jpeg");
 }
 
 .logo-left{
